@@ -1,0 +1,163 @@
+html{
+    height: 101%;
+    margin-top: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    padding-top: 50px;
+}
+
+#h4_p{
+    margin-left: 40px;
+}
+
+nav{
+    background-color: #A9A9A9;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+
+.links{
+    display: inline-block;
+    color: #2F4F4F;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.links:hover{
+    background: #2F4F4F;
+    color: black;
+}
+
+.og_list{
+    border: 1px solid black;
+    width: 18%;
+    margin-left: 2px; 
+}
+
+.og_list a:link{
+    color:#2F4F4F;
+}
+
+.og_list a:visited{
+    color: #2F4F4F;
+}
+
+li{
+    margin-left: 15px;
+}
+
+#scientist{
+    height: 350px;
+    float: right;
+}
+
+#compass1{
+    height: 350px;
+    float: right;
+}
+
+#morse1{
+    height: 275px;
+    float: right;
+}
+
+table{
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-collapse: collapse;
+}
+
+th{
+    padding: 12px;
+    text-align: center;
+    background-color:#333;
+    color: white;
+    border: 1px solid #ddd;
+}
+
+tr{
+    text-align: center;
+}
+
+td{
+    border: 2px solid #ddd;
+}
+footer{
+    text-align: right;
+    color: #FFF5EE;
+    background-color: #A9A9A9;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 100%;
+}
+
+footer a:link{
+    color: #FFF5EE;
+}
+
+footer a:visited{
+    color: #FFF5EE;
+}
+
+#contact_links a:link{
+    color:#FFE4C4;
+}
+
+#contact_links a:visited{
+    color:#FFE4C4
+}
+
+#aeroplane1{
+    height: 275px;
+    float: right;
+}
+
+#aeroplane2{
+    height: 270px;
+    float: right;
+}
+
+#bicycle1{
+    height: 300px;
+    float:right;
+}
+
+#bicycle2{
+    height: 300px;
+    float: right;
+}
+
+#bicycle3{
+    height: 270px;
+    float: right;
+}
+
+body{
+    background-color: #A9A9A9;
+    letter-spacing: 1px;
+    font-family: Courier New, serif;
+}
+
+.parent{
+    position: relative;
+    float: right;
+}
+
+#video2{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+}
+
+#video3{
+    position: absolute;
+    top: 500px;
+    left: 0px;
+}
